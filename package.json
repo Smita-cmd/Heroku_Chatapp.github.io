@@ -10,6 +10,16 @@
   "author": "banri",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smita-cmd/Heroku_Chatapp.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smita-cmd/Heroku_Chatapp.github.io/issues"
+  },
+  "homepage": "https://github.com/Smita-cmd/Heroku_Chatapp.github.io#readme"
 }
