@@ -1,5 +1,5 @@
 //node server which will handle socket io connections
-const io=require('socket.io')(8000 || process.env.PORT)
+const io=require('socket.io')(process.env.PORT || 8000)
 
 const users={};
 io.on('connection',socket=>{
